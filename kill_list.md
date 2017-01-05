@@ -7,3 +7,4 @@ Kill List
     Bad variable names
     I hate bad comments
     I hate bad demo code
+    I hate bad instructions
